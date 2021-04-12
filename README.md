@@ -13,6 +13,6 @@ manually indicate what folders your emotes are in.
 
 Then press "Browse..." and click on the emote you want to view.
 
-You can press Ctrl, and Mouse scroll wheel to scale in browser. 
+Press Ctrl, and Mouse scroll wheel to scale in browser. 
 
 ```
