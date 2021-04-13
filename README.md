@@ -15,4 +15,6 @@ Then press "Browse..." and click on the emote you want to view.
 
 Press Ctrl, and Mouse scroll wheel to scale in browser. 
 
+Caution: Do not use Firefox to save your results, as it can result in low image quality.
+
 ```
