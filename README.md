@@ -1,4 +1,4 @@
-# TwitchEmoteViewe
+# TwitchEmoteViewer
 Simple HTML/Javascript viewer to view what Twitch emotes would appear like in Twitch chat and Discord.
 
 <img src="https://github.com/warrenarea/TwitchEmoteViewer/blob/main/HowTo.png"></img>
